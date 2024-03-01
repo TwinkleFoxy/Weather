@@ -1,6 +1,5 @@
 
 [![License][license-image]][license-url]
-[![Swift Version][swift-image]][swift-url]
 [![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](https://www.apple.com)
 
 # RecipeApp
