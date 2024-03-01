@@ -2,7 +2,7 @@
 [![License][license-image]][license-url]
 [![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](https://www.apple.com)
 
-# RecipeApp
+# Weather
 
 The weather forecast app provides a user-friendly and intuitive interface to get up-to-date weather information for various cities. The following are its key features:
 Ability to search for a city by its name right on the home screen and in the list of favorite cities.
